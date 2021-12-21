@@ -1,0 +1,5 @@
+frames = 1
+height = {height}
+width = {width}
+framerate = 0
+flags = 1
